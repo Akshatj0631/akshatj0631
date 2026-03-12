@@ -66,6 +66,24 @@ class Developer {
 </p>
 
 ---
+---
+
+# 🚀 Featured Project
+
+<p align="center">
+
+<a href="https://github.com/Akshatj0631/CRUD-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshatj0631&repo=CRUD-Project&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+
+</p>
+
+---
 
 # ⚙️ Tech Stack
 
