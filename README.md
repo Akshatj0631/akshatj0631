@@ -159,9 +159,9 @@ Greedy Algorithms
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gautamakshat3105&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshatj0631&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamakshat3105&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatj0631&theme=tokyonight&hide_border=true"/>
 
 </p>
 
